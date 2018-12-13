@@ -1,7 +1,8 @@
+# Obtained from Arielle Borovsky for Ken McRae's lab
 
 form NORMALIZE SENTENCES
-	sentence Directory_to_read_from: /Users/thea/Documents/11_McRae/PirateStudy/Soundfiles/Soundfiles/1_IndividualSoundfiles/
-	sentence Directory_to_save: /Users/thea/Documents/11_McRae/PirateStudy/Soundfiles/Soundfiles/3_Edited/
+	sentence Directory_to_read_from: /Users/thea/test/
+	sentence Directory_to_save: /Users/thea/test/out/
 	comment Normalize:
 	boolean Intensity: 1
 	boolean Art1_Duration: 1
