@@ -13,5 +13,5 @@ I also have a private collection of scripts that are just not really polished en
 
 ### Other resources I've found immensely helpful along the way
 - [Praat Scripting Tutorial (Phonetics on Speed) by Jörg Mayer](http://praatscripting.lingphon.net/)
-- [Praat User Group forum](https://uk.groups.yahoo.com/neo/groups/praat-users/conversations/topics)
+- [Praat User Group forum](https://groups.io/g/Praat-Users-List) (and the [now closed Yahoo Groups version](https://uk.groups.yahoo.com/neo/groups/praat-users/conversations/topics))
 - [Praat syntax highlighter for Sublime text editor](https://github.com/mauriciofigueroa/praatSublimeSyntax)
