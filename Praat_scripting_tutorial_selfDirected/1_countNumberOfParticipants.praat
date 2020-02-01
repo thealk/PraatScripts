@@ -23,7 +23,7 @@ form Make Selection
 	comment Enter directory of files
 	comment Files must have format: experiment_participant_item_condition
         comment Directory must include the final slash
-	sentence Directory /Users/mcgillLing/Google Drive/PraatScriptingTutorial/data/
+	sentence Directory data/
 	sentence Extension .wav
 endform
 

@@ -25,7 +25,7 @@ form Make Selection
 	boolean SameFolder 
 	comment If not, enter directory of TextGrids
 	comment ***Include final backslash in folder names***
-	sentence Directory  /Users/mcgillLing/9_PraatTutorial/data/
+	sentence Directory  data/
 	comment tier for segment label
 	positive Seg_tier 4
 	comment tier for word label

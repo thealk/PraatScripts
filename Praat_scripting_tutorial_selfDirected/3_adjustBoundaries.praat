@@ -19,7 +19,7 @@
 form Make Selection
 	comment Enter directory of TextGrids
 	comment Include final backslash!
-	sentence Directory /Users/mcgillLing/9_PraatTutorial/data/
+	sentence Directory data/
 	comment Specify the tier you'd like to adjust
 	positive AdjustmentTier 4
 	comment Enter the label and error value (in seconds) for the left 

@@ -5,10 +5,10 @@
 form Make Selection
 	comment Enter directory of TextGrids
 	comment Include final backslash!
-	sentence Directory /Users/mcgillLing/Google Drive/PraatScriptingTutorial/data/
+	sentence Directory data/
 	comment Enter the tier you'd like to duplicate
 	positive DuplicateTier 3
-	boolean MakeDirectory 
+	boolean MakeDirectory 1
 endform
 
 clearinfo
