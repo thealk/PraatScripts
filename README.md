@@ -7,7 +7,7 @@ I also have a private collection of scripts that are just not really polished en
 
 
 ### Descriptions of a selection of resources in this repository
-- **Visual analog scale praat**: script to administer perceptual experiments that require listeners rate audio clips using a visual analog scale. [See companion blog post here](https://theaknowles.com/post/measuring-speech-intelligibility-in-praat-part1/)
+- **Visual analog scale praat**: script to administer perceptual experiments that require listeners rate audio clips using a visual analog scale. [See companion blog post here](https://casa-lab.com/blog_posts/measuring-speech-intelligibility-in-praat-part1/)
 - **Interactive Praat scripting tutorial**: Designed to be game-like in nature for research assistants I worked with and trained at McGill. It has various "levels," the more advanced of which are not completed yet. 
 - **Self-directed Praat scripting tutorial**: A set of scripts and a text file designed to help keen novice Praat scripters learn the ins and outs of getting Praat to do things for you. Again, designed for researchers at McGill. We ran this as a group tutorial on a couple occasions.
 
