@@ -48,7 +48,7 @@ for iFile from 1 to nFiles
 
 	# Convert code to arpabet vowel, based on Jeff Berry's vowel coding gloss
 	# Set include to 0 if does not apply
-		include=0
+		include=1
 		if include
 			if code == 1
 				lab$ = "iy"
