@@ -89,6 +89,10 @@ for iFile from 1 to nFiles
 
 	endfor
 
+	# Save TextGrid
+	select TextGrid 'name$'
+	Save as text file: "'dir$''name$'.TextGrid"
+
 
 
 # Clean up files
